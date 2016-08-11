@@ -1,15 +1,15 @@
-typography_spectrum: 0.4262577509507537
+typography_spectrum: 0.6821071666199714
 color:
-  brandStrength: 0.5645445687696338
-  lightness: 0.5826893427874893
-  saturation: 0.008728306740522385
-  rhythmicContrast: 0.5266570320818573
+  brandStrength: 0.10336572793312371
+  lightness: 0.8956410754472017
+  saturation: 0.23522368050180376
+  rhythmicContrast: 0.15904021356254816
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.726982775144279
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+layout_spectrum: 0.286714562214911
 name: kalle-portfolio
 title: Kalle Enkelmann Portfolio
