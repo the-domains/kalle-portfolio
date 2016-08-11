@@ -1,0 +1,14 @@
+layout_spectrum: 0.726982775144279
+typography_spectrum: 0.4262577509507537
+color:
+  brandStrength: 0.5645445687696338
+  lightness: 0.5826893427874893
+  saturation: 0.008728306740522385
+  rhythmicContrast: 0.5266570320818573
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: kalle-portfolio
