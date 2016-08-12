@@ -1,15 +1,19 @@
-typography_spectrum: 0.40707258763723075
+typography_spectrum: 0.4262577509507537
 color:
-  brandStrength: 0.3839677299838513
-  lightness: 0.8550592239480466
-  saturation: 0.7790607316419482
-  rhythmicContrast: 0.5560435855295509
+  brandStrength: 0.5645445687696338
+  lightness: 0.5826893427874893
+  saturation: 0.008728306740522385
+  rhythmicContrast: 0.5266570320818573
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.07208339567296207
+layout_spectrum: 0.726982775144279
 name: kalle-portfolio
+navigation:
+  - name: Bio
+    id: 312dca18-234d-48cb-be04-5a09bac49471
+    type: content
 title: Kalle Enkelmann Portfolio
