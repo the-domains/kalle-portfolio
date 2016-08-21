@@ -1,16 +1,16 @@
-typography_spectrum: 0.8580288719385862
+layout_spectrum: 0.15256564295850694
+typography_spectrum: 0.8593982821330428
 color:
-  brandStrength: 0.2543891102541238
-  lightness: 0.6943427915684879
-  saturation: 0.9469360879156739
-  rhythmicContrast: 0.3376873617526144
+  brandStrength: 0.9322179087903351
+  lightness: 0.7235954781062901
+  saturation: 0.5307264160364866
+  rhythmicContrast: 0.007520816521719098
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.7577271373011172
 name: kalle-portfolio
 navigation:
   - name: Bio
